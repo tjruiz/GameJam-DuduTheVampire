@@ -75,4 +75,6 @@ DerivedDataCache/*
 
 # Starter content
 Content/StarterContent/*
-art_assets/*
+Textures/*
+HouseplantPack/*
+DarkForest/*
